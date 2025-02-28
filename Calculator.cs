@@ -1,6 +1,6 @@
 ﻿namespace CalculatorApp
 {
-    public class Calculator
+    public class Calculator 
     {
         public int Additional(int a, int b)
         {
